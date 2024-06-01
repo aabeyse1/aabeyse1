@@ -42,9 +42,10 @@
 
 <br/>
 
+<!--
 ### Projects 
 [![Mender](https://github-readme-stats.vercel.app/api/pin/?username=aabeyse1&repo=mender-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aabeyse1/mender-app)
 [![HomieBot](https://github-readme-stats.vercel.app/api/pin/?username=davinchi73&repo=comp480-Final_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/davinchi73/comp480-Final_Project)
 [![ARISCALofi](https://github-readme-stats.vercel.app/api/pin/?username=issakav&repo=ARISCA-Lofi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Issakav/ARISCA-Lofi)
 [![StuckTogether](https://github-readme-stats.vercel.app/api/pin/?username=aabeyse1&repo=alien-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aabeyse1/alien-game)
-
+-->
