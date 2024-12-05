@@ -9,6 +9,7 @@
   CS & Econ Student at Macalester College
 </p>
 
+<!--  
 <p align="center">
  <a href="https://linkedin.com/in/arnika-abeysekera" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
@@ -18,6 +19,7 @@
  </a>
 
 <br />
+ -->
 
 <!-- Langauges  -->
 ### Experience
